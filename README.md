@@ -1,0 +1,2 @@
+# No_show_appointments
+This dataset is about why do 30% of patients miss their scheduled appointments?  it contains 110.527 medical appointments in Brazil and if the patient showed up or not  The dataset provided us with information about every appointment such as gender, age, date of schedule, date of the actual appointment, neighborhood, scholarship, SMS-reminded  as well as an indication for one or more diseases, the patient might suffer. The possible options for these diseases like hypertension, diabetes.
